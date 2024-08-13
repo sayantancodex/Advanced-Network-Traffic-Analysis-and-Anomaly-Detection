@@ -24,7 +24,7 @@ Network traffic analysis is a crucial task in cybersecurity to identify potentia
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/network-traffic-analysis.git
+    git clone https://github.com/sayantancodex/Advanced-Network-Traffic-Analysis-and-Anomaly-Detection.git
     ```
 2. Install the required libraries:
     ```bash
@@ -32,7 +32,7 @@ Network traffic analysis is a crucial task in cybersecurity to identify potentia
     ```
 3. Run the script:
     ```bash
-    python network_traffic_analysis.py
+    python main.py
     ```
 
 ## Methodology
